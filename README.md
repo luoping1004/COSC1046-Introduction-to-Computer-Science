@@ -1,1 +1,3 @@
 # COSC1046-Introduction-to-Computer-Science
+
+Welcome to my GitHub repository for COSC1046 - Introduction to Computer Science at Algoma University! As a sessional lecturer at Algoma, I've designed this collection of lecture slides, assignments, and supplementary materials to support students in their learning journey. Whether you're a current student seeking course materials or someone interested in Java, feel free to explore and download what you need. If you have any questions or suggestions, please don't hesitate to reach out. Thank you for visiting, and I hope you find these resources valuable for your studies!
